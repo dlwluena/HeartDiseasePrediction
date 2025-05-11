@@ -41,4 +41,5 @@ This project focuses on developing a deep learning model to predict the presence
 | `disease.ipynb`     | Main Jupyter Notebook with all steps       |
 | `heart.csv`         | Dataset containing patient medical records |
 | `README.md`         | Project overview and documentation         |
+| `.gitignore`        | Specifies files and folders to be excluded from version control |
 
