@@ -43,3 +43,16 @@ This project focuses on developing a deep learning model to predict the presence
 | `README.md`         | Project overview and documentation         |
 | `.gitignore`        | Specifies files and folders to be excluded from version control |
 
+# .gitignore Usage
+
+This project includes a `.gitignore` file to ensure that unnecessary or system-specific files are excluded from version control. It helps keep the repository clean and focused only on essential source code and assets.
+
+Ignored items include:
+
+- `.DS_Store`: macOS system metadata
+- `__pycache__/`, `*.pyc`: Python cache and compiled files
+- `.ipynb_checkpoints/`: Jupyter Notebook backup files
+- `env/`, `venv/`: Virtual environment folders
+- `.vscode/`: Local IDE configuration files
+
+These exclusions help maintain a lightweight, portable, and professional project structure.
